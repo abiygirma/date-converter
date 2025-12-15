@@ -1,2 +1,2 @@
 # date-converter
-Ethiopian calendar to Gregorian calendar and vice versa
+A simple Gregorian date to Ethiopian date converter 
