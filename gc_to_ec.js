@@ -1,3 +1,8 @@
+/**
+    Author: Abiy Girma
+        @ : abiysemail@gmail.com
+    github: https://github.com/abiygirma/
+*/
 function convert_gc_to_ec(gc_date){
     let ethiopian_months = ['መስከረም','ጥቅምት','ህዳር','ታህሳስ','ጥር','የካቲት','መጋቢት','ሚያዝያ','ግንቦት','ሰኔ','ሐምሌ','ነሐሴ','ጳጉሜን'];
     let gc_date_ = new Date(gc_date);
