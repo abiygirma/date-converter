@@ -8,8 +8,7 @@ function convert_gc_to_ec(gc_date){
     let gc_date_ = new Date(gc_date);
     let gc_time = gc_date_.getTime();
     let day = "11";
-    let year = <?= date('Y') ?>;
-    year = gc_date_.getFullYear();
+    let year = gc_date_.getFullYear();
     if(year % 4 == 3){
         day = "12";
     }
